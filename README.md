@@ -26,11 +26,9 @@ later use.
 - [License](#license)
 - [Features](#features)
 
-## Installation & Heroku Demonstration 🔑
+## Heroku Demonstration 🔑
 
-1.  Clone this repo.
-2.  Do an npm i.
-3.  This can be run on Heroku.
+My Heroku link: https://shielded-meadow-65880.herokuapp.com/ 
 
 ## Usage &#128161;
 
